@@ -1,0 +1,35 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# PyInstaller
+*.spec
+
+# Local updates folder
+updates/
+
+# Backup files
+backup/
+*.backup
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Windows specific
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log

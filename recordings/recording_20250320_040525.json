@@ -1,0 +1,26 @@
+[
+  {
+    "type": "keyboard",
+    "event": "down",
+    "key": "f8",
+    "time": 2.5033950805664062e-05
+  },
+  {
+    "type": "keyboard",
+    "event": "up",
+    "key": "f8",
+    "time": 0.0062367916107177734
+  },
+  {
+    "type": "keyboard",
+    "event": "down",
+    "key": "f9",
+    "time": 2.001246452331543
+  },
+  {
+    "type": "keyboard",
+    "event": "up",
+    "key": "f9",
+    "time": 2.1889901161193848
+  }
+]

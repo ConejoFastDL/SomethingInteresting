@@ -1,0 +1,14 @@
+[
+  {
+    "type": "keyboard",
+    "event": "down",
+    "key": "f8",
+    "time": 4.5299530029296875e-05
+  },
+  {
+    "type": "keyboard",
+    "event": "up",
+    "key": "f8",
+    "time": 0.11531734466552734
+  }
+]
